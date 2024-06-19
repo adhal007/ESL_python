@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.swp
+*/__pycache__
+py_glm.egg-info
+.ipynb 
+*.pyc
